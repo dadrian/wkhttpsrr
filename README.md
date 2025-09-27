@@ -6,3 +6,5 @@ based on draft revision 08. wkhttpsrr is a library that can take as input a host
 This repository includes command-line utilties for fetching, validating, and printing an HTTPS RR configuration from a .well-known directory for an input hostname.
 
 It does not (yet) include any integrations with an DNS software.
+
+The RFC is stored at draft-ietf-tls-wkech-08.txt
